@@ -11,7 +11,7 @@
 
 - 🎓 Information Technology graduate from NIT Jalandhar  passionate about building scalable and intuitive solutions  
 - 👓 Currently experimenting with **AI**, **ML**, and **Generative AI**  
-- 🛠️ Love to learn by doing — always cooking up side projects  
+- 🛠️ Love to learn by doing , always cooking up side projects  
 - 🌐 Active in hackathons and tech communities  
 - 📬 Reach me at: **[abhiladdha5@gmail.com](mailto:abhiladdha5@gmail.com)**
 
