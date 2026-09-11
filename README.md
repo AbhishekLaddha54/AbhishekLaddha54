@@ -58,7 +58,6 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/abhishek-laddha-9343b122b/"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin"></a>
-  <a href="https://x.com/Abhi5043"><img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=twitter"></a>
   <a href="mailto:abhiladdha5@gmail.com"><img src="https://img.shields.io/badge/-Email-EA4335?style=flat-square&logo=gmail&logoColor=white"></a>
 </p>
 
