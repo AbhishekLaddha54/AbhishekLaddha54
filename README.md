@@ -33,7 +33,7 @@
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
 ![R](https://img.shields.io/badge/-R-276DC3?style=flat&logo=r&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git)
-![Figma](https://img.shields.io/badge/-Figma-000000?style=flat&logo=figma)
+
 
 ---
 
